@@ -1,0 +1,4 @@
+target:  
+  - url: "SETUP.md"
+include: ["apps/"]
+reinit: "random-string"
